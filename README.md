@@ -1,0 +1,2 @@
+# Python-Projects-For-Beginners
+So, you’ve just finished learning the basics of Python. The question now is, what do you do now? How can you continue to keep developing your coding skills using Python? Do you carry on watching tutorials, or is there something better you can do? The answer is yes there is something better, and that something is working on your own python project. Here are 6 small Python projects you can do as a beginner.
